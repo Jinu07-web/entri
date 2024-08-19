@@ -1,0 +1,12 @@
+.card-img{
+    display: flex;
+    width: auto;
+    height: 15.600em;
+    overflow: hidden;
+}
+.card-img img{
+    transition: all 0.3s;
+}
+.card-img img:hover{
+    transform: scale(1.05);
+}
